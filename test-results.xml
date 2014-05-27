@@ -1,51 +1,51 @@
 <?xml version="1.0"?>
 <testsuites>
-  <testsuite name="PhantomJS 1.9.7 (Mac OS X)" package="" timestamp="2014-05-27T07:35:52" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.009">
+  <testsuite name="PhantomJS 1.9.7 (Mac OS X)" package="" timestamp="2014-05-27T08:14:37" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.003">
     <properties>
       <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34"/>
     </properties>
-    <testcase name="should return the sum of two numbers" time="0.009" classname="PhantomJS 1.9.7 (Mac OS X).Calc #sum"/>
+    <testcase name="should return the sum of two numbers" time="0.003" classname="PhantomJS 1.9.7 (Mac OS X).Calc #sum"/>
     <system-out><![CDATA[
 ]]></system-out>
     <system-err/>
   </testsuite>
-  <testsuite name="Firefox 29.0.0 (Mac OS X 10.8)" package="" timestamp="2014-05-27T07:35:53" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.013">
+  <testsuite name="Firefox 29.0.0 (Mac OS X 10.8)" package="" timestamp="2014-05-27T08:14:38" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.005">
     <properties>
       <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:29.0) Gecko/20100101 Firefox/29.0"/>
     </properties>
-    <testcase name="should return the sum of two numbers" time="0.013" classname="Firefox 29.0.0 (Mac OS X 10.8).Calc #sum"/>
+    <testcase name="should return the sum of two numbers" time="0.005" classname="Firefox 29.0.0 (Mac OS X 10.8).Calc #sum"/>
     <system-out><![CDATA[
 ]]></system-out>
     <system-err/>
   </testsuite>
-  <testsuite name="Opera 21.0.1432 (Mac OS X 10.8.5)" package="" timestamp="2014-05-27T07:35:53" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.016">
+  <testsuite name="Opera 21.0.1432 (Mac OS X 10.8.5)" package="" timestamp="2014-05-27T08:14:38" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.018">
     <properties>
       <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.132 Safari/537.36 OPR/21.0.1432.67"/>
     </properties>
-    <testcase name="should return the sum of two numbers" time="0.016" classname="Opera 21.0.1432 (Mac OS X 10.8.5).Calc #sum"/>
+    <testcase name="should return the sum of two numbers" time="0.018" classname="Opera 21.0.1432 (Mac OS X 10.8.5).Calc #sum"/>
     <system-out><![CDATA[
 ]]></system-out>
     <system-err/>
   </testsuite>
-  <testsuite name="Chrome 35.0.1916 (Mac OS X 10.8.5)" package="" timestamp="2014-05-27T07:35:54" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.075">
+  <testsuite name="Chrome 35.0.1916 (Mac OS X 10.8.5)" package="" timestamp="2014-05-27T08:14:38" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.015">
     <properties>
       <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"/>
     </properties>
-    <testcase name="should return the sum of two numbers" time="0.075" classname="Chrome 35.0.1916 (Mac OS X 10.8.5).Calc #sum"/>
+    <testcase name="should return the sum of two numbers" time="0.015" classname="Chrome 35.0.1916 (Mac OS X 10.8.5).Calc #sum"/>
     <system-out><![CDATA[
 ]]></system-out>
     <system-err/>
   </testsuite>
-  <testsuite name="Chrome 37.0.2015 (Mac OS X 10.8.5)" package="" timestamp="2014-05-27T07:35:54" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.045">
+  <testsuite name="Chrome 37.0.2015 (Mac OS X 10.8.5)" package="" timestamp="2014-05-27T08:14:38" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.023">
     <properties>
       <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2015.0 Safari/537.36"/>
     </properties>
-    <testcase name="should return the sum of two numbers" time="0.045" classname="Chrome 37.0.2015 (Mac OS X 10.8.5).Calc #sum"/>
+    <testcase name="should return the sum of two numbers" time="0.023" classname="Chrome 37.0.2015 (Mac OS X 10.8.5).Calc #sum"/>
     <system-out><![CDATA[
 ]]></system-out>
     <system-err/>
   </testsuite>
-  <testsuite name="Safari 6.0.5 (Mac OS X 10.8.5)" package="" timestamp="2014-05-27T07:35:54" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.018">
+  <testsuite name="Safari 6.0.5 (Mac OS X 10.8.5)" package="" timestamp="2014-05-27T08:14:39" id="0" hostname="Robs-MacBook-Air-3.local" tests="1" errors="0" failures="0" time="0.018">
     <properties>
       <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1"/>
     </properties>
