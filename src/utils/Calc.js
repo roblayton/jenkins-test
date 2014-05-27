@@ -1,5 +1,5 @@
 /*
- * @author Rob Layton
+ * @author Rob Layton.
  */
 
 var Calc = {};
